@@ -14,7 +14,7 @@ LAKE_OFFSET = {
     "x": 145,
     "y": 270,
     "width": 470,
-    "height": 340
+    "height": 215
 }
 
 # HSV da água
