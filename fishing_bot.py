@@ -143,6 +143,9 @@ def click_lake(cx,cy):
 
 print("Fishing bot iniciado")
 print("Pressione F1 para abrir o DEBUG")
+# Aguarde 10 segundos para o usuário se preparar
+print("Aguardando 10 segundos para preparação...")
+time.sleep(10)
 
 while True:
 
