@@ -2,6 +2,8 @@
 
 Bot de autopesca para o Jardim Flutuante do Habbo Hotel: Origins utilizando visão computacional com OpenCV.
 
+- 🎬 Vídeo: https://www.youtube.com/watch?v=GdBfXMOAc3Q
+
 ## 📋 Descrição
 
 Este bot automatiza o processo de pesca no Habbo Origins, detectando peixes através da análise de movimento na água e respondendo automaticamente ao balão de pesca. Utiliza técnicas de Computer Vision para identificar:
