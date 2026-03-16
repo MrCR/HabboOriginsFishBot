@@ -10,12 +10,29 @@ import keyboard
 
 WINDOW_TITLE = "Habbo Hotel: Origins"
 
-LAKE_OFFSET = {
+ROOM_NAME = "SNOUTHILL_PIER"
+
+
+"""LAKE_OFFSET = {
     "x": 145,
     "y": 270,
     "width": 470,
     "height": 215
-}
+}"""
+if ROOM_NAME == "GARDEN":
+    LAKE_OFFSET = {
+        "x": 145,
+        "y": 270,
+        "width": 470,
+        "height": 215
+    }
+elif ROOM_NAME == "SNOUTHILL_PIER":
+    LAKE_OFFSET = {
+        "x": 80,
+        "y": 235,
+        "width": 710,
+        "height": 235
+    }
 
 # HSV da água
 LOWER_WATER = np.array([90,60,40])
