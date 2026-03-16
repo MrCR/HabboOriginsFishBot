@@ -29,9 +29,9 @@ if ROOM_NAME == "GARDEN":
 elif ROOM_NAME == "SNOUTHILL_PIER":
     LAKE_OFFSET = {
         "x": 80,
-        "y": 235,
-        "width": 710,
-        "height": 235
+        "y": 155,
+        "width": 770,
+        "height": 315
     }
 
 # HSV da água
